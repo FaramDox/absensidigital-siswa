@@ -1,0 +1,8 @@
+{
+  "name": "Dashboard Absensi Siswa SMAN 1 Seputih Banyak",
+  "description": "Sistem informasi presensi digital dan dashboard analitik kehadiran siswa SMAN 1 Seputih Banyak terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
